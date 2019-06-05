@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "450246520913",
+    "firebase_url": "https://kinderapp-e5770.firebaseio.com",
+    "project_id": "kinderapp-e5770",
+    "storage_bucket": "kinderapp-e5770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450246520913:android:10ddf821ff1ffef2",
+        "android_client_info": {
+          "package_name": "com.dib.kinderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450246520913-5g7g4l99o6aslr9uem8tpe7moccodfm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGRFoyCShG6Wmt0HHuW4oPTST1PU7g64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
