@@ -10,7 +10,7 @@
     "@expo/vector-icons": "^8.0.0",
     "@mapbox/polyline": "^1.0.0",
     "@ptomasroos/react-native-multi-slider": "^1.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "expo": "^31.0.2",
     "firebase": "^5.7.0",
     "haversine": "^1.1.0",
