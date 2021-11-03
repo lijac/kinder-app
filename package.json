@@ -39,7 +39,7 @@
     "react-timer-mixin": "^0.13.4",
     "rebass": "^3.0.0-12",
     "rn-text-input-mask": "^0.5.3",
-    "validator": "^10.9.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
