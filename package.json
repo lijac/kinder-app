@@ -11,7 +11,7 @@
     "@mapbox/polyline": "^1.0.0",
     "@ptomasroos/react-native-multi-slider": "^1.0.0",
     "axios": "^0.18.0",
-    "expo": "^31.0.2",
+    "expo": "^46.0.16",
     "firebase": "^5.7.0",
     "haversine": "^1.1.0",
     "lottie-react-native": "^2.5.10",
